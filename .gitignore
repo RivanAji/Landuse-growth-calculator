@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data (Optional: Uncomment if you don't want to upload large data files)
+# *.tif
+# *.tiff
+# *.csv

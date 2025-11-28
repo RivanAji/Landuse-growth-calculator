@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+pmdarima
+statsmodels
+python-multipart
+matplotlib
+seaborn
+rasterio
+geopandas
+shapely
